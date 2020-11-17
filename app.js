@@ -64,6 +64,31 @@ const quotes = [
         quote: "Always forgive your enemies; nothing annoys them so much.",
         author: "― Oscar Wilde"
     },
+
+    {
+        quote: "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        author: "― Winston Churchill"
+    },
+
+    {
+        quote: "Never bend your head. Always hold it high. Look the world straight in the eye.",
+        author: "― Helen Keller"
+    },
+
+    {
+        quote: "Believe you can and you're halfway there.",
+        author: "― Theodore Roosevelt"
+    },
+
+    {
+        quote: "No matter what you're going through, there's a light at the end of the tunnel.",
+        author: "― Demi Lovato"
+    },
+
+    {
+        quote: "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+        author: "― Albert Einstein"
+    },
 ]
 
 // New Quote Button
